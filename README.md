@@ -1,3 +1,4 @@
-# pizza-webpage
+# Pizza
+Single Web Page: Favorite Pizza Toppings
 
-Simple Demo for GitHub Project
+This is a single webpage listing my favorite pizza toppings.
